@@ -1,0 +1,13 @@
+.header{
+    background-color: darkkhaki;
+}
+h1{
+    color: darkgoldenrod;
+}
+#total-budget{
+    font-size: 34px;
+}
+#budget-dollars{
+    font-size: 34px;
+    color: rgba(48, 8, 85, 0.884);
+}
